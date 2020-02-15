@@ -13,7 +13,7 @@ rustc-serialize = "0.3"
 time = "0.1"
 cookie = "^0.2"
 byteorder = "0.5"
-nickel = "^0.8"
+nickel = "^0.11"
 
 [dependencies.nickel_cookies]
 version = "^0.1"
